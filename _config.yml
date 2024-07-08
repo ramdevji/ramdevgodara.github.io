@@ -7,13 +7,8 @@ name: Ramdev Godara
 title: Software Developer
 email: godaraji47@gmail.com
 phone: +918502005745
-
-# Social links
 github_username:  https://github.com/ramdevji
 linkedin_username: https://www.linkedin.com/in/ramdev-g-14781110a/
-
-
-# About Section
 about_title: About me
 about_profile_image: _test/images/ramdev.jpeg
 about_content: > # this means to ignore newlines until the next config item.
