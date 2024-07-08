@@ -4,26 +4,26 @@
   job_title: Software Development Engineer 2
   dates: April 2023 - September 2023
   description: >
-    Led the end-to-end design and development of a Common Cart and Common Coupon service for the labs vertical.|
+    Led the end-to-end design and development of a Common Cart and Common Coupon service for the labs vertical.
     Spearheaded the unit testing and automation efforts for the Labs Core Service, significantly enhancing software
-    reliability and quality.|
+    reliability and quality.
     Designed and implemented comprehensive unit tests using testing frameworks like PyTest, covering critical
-    components and edge cases.|
+    components and edge cases.
     Collaborated closely with the development team to integrate testing practices into the development cycle, resulting
-    in quicker bug identification and resolution.|
+    in quicker bug identification and resolution.
     Pioneered the migration of CPU-heavy tasks to AWS Lambda, a serverless computing platform, effectively reducing
-    processing time and enhancing service responsiveness.|
+    processing time and enhancing service responsiveness.
     Achieved a 40% reduction in task execution time, leading to a significant improvement in overall service latency and
     user experience.
 
 - layout: top
   company: Tata 1mg
-  job_title: Software Development Engineer 2
+  job_title: Software Development Engineer 1
   dates: June 2021 – March 2023
   description: >
     Led the end-to-end development of a rule-based system designed to intelligently cross-sell laboratory products with offerings from 
-    different verticals. |
-    Engineered a streamlined process for bulk inventory creation and upload, significantly reducing manual effort and processing time.|
+    different verticals. 
+    Engineered a streamlined process for bulk inventory creation and upload, significantly reducing manual effort and processing time.
     Played a pivotal role in optimizing internal dashboards critical to daily operations, including Coupons, Admin, and Email systems.
 
 - layout: top-right
@@ -33,6 +33,6 @@
       dates: Nov. 2020 – June 2021
   description: >
     Successfully integrated REST APIs into various applications, enabling seamless data exchange and enhancing user
-    experiences. |
+    experiences. 
     Spearheaded the design and implementation of a hierarchical data update mechanism for packages comprising
     multiple tests.
