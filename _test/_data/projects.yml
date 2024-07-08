@@ -4,12 +4,12 @@
   github: https://github.com/ramdevji/Garbage-Collector-for-C
   description: >
     Conceptualized, designed, and implemented a dynamic memory allocator for C on 64-bit systems, enhancing
-    memory management efficiency. |
+    memory management efficiency.
     Implemented a segregated free list data structure to efficiently manage different memory block sizes, reducing
     fragmentation and enhancing overall memory utilization.
 
 - name: Music Recommendation System | Python, Flask, React, PostgreSQL
   description: >
-    Designed and developed a full-stack web application using PHP and JavaScript, catering to music playlist. |
+    Designed and developed a full-stack web application using PHP and JavaScript, catering to music playlist.
     Implemented a recommendation algorithm that combines artist similarity scores to generate personalized music
     suggestions.
